@@ -34,8 +34,7 @@ The main script focuses on implementing the core functionalities of the data pip
 The project relies on the following dependencies to function properly:
 [requirements.txt](https://github.com/shrishtibhasin/Data-Pipeline-for-E-commerce-Platform-python/blob/main/requirements.txt)
 
-## License
 
-This project is licensed under the MIT License. 
+
 
 
